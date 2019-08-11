@@ -1,6 +1,6 @@
-# shadowsocks-v2ray
+# 科学上网
 
-//Download on demand
-      按需下载
+//Download by netdisk
+      网盘下载
       
-      #更多访问<more>：https://pgl888999.github.io/
+      link：http://pgl888999.asuscomm.com:888/index.php/s/pDc7lnZ2DF3STGx
